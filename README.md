@@ -11,8 +11,8 @@ This notebook contains exploratory analysis of the data. Distributions of variab
 Regressions were made and measured on certain features in order to have a better understanding of how these features explain the price of a diamond.
 
 
-![](Diamonds%20Visualizations/Faceting.png)
+![](Diamonds_Visualizations/Faceting.png)
 
-![](Diamonds%20Visualizations/Price%20vs%20Color.png)
+![](Diamonds_Visualizations/Price_vs_Color.png)
 
-![](Diamonds%20Visualizations/Price%20vs%20Depth.png)
+![](Diamonds_Visualizations/Price_vs_Depth.png)
